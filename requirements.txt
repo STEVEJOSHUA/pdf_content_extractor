@@ -1,0 +1,5 @@
+PyMuPDf
+Pillow
+google.generativeai
+pandas
+openpyxl
